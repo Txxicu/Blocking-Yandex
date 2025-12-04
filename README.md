@@ -1,4 +1,5 @@
 <img width="180" height="180" alt="blockingyandx" src="https://github.com/user-attachments/assets/56fd516e-6041-463a-9d05-41cf1d0ea110" />
+
 # Blocking-Yandex
 [RU]
 Это приложение позволяет заблокировать Яндекс браузер на вашем компьютере.
