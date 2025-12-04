@@ -6,3 +6,4 @@
 [EN]
 This app lets you block Yandex Browser on your PC.
 If you change your mind, you can unblock it by clicking the button.
+<img width="180" height="180" alt="blockingyandx" src="https://github.com/user-attachments/assets/56fd516e-6041-463a-9d05-41cf1d0ea110" />
