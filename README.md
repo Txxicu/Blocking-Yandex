@@ -1,4 +1,4 @@
-<img width="180" height="180" alt="blockingyandx" src="https://github.com/user-attachments/assets/56fd516e-6041-463a-9d05-41cf1d0ea110" />
+<img width="600" height="360" alt="BY" src="https://github.com/user-attachments/assets/c9b41b0b-fe96-45d1-8534-f1ec4cee1dd3" />
 
 # Blocking-Yandex
 [RU]
